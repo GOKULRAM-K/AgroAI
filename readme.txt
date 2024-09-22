@@ -27,10 +27,10 @@ CREDITS:
 ********
 Me and my team built this applicaion for Smart India Hackathon.
 Team Members:
-Yadeesh T
-Varun Krishnan
 Gokul Ram K
+Varun Krishnan
+Yadeesh T
 Aarthi G
 Sreesh Jambulingam
 Pranesh Shivanchalam
-<will soon post the linkedIn post here>
+
