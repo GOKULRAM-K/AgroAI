@@ -13,7 +13,7 @@ USING GUIDE:
 
 USAGE:
 ********
-you can load an AI model (in mycase a plant disease detection AI) and upload a picture to the application the trained ml model (.h5 file) will predict the disease and sent the pridiction to gemini ai to generate content abour it.
+you can load an AI model (in this case a plant disease detection AI) and upload a picture to the application the trained ml model (.h5 file) will predict the disease and sent the prediction to gemini ai to generate content about it.
 
 LANGUAGE:
 *********
@@ -32,5 +32,5 @@ Varun Krishnan
 Yadeesh T
 Aarthi G
 Sreesh Jambulingam
-Pranesh Shivanchalam
+Pranesh Shivaachalam
 
