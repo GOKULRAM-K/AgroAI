@@ -1,36 +1,53 @@
------------------------
-# README
------------------------
-USING GUIDE:
-************
-1) In app.py load your model.
-2) In index.js, put your gemini AI api key, after creating one.
-3) install npm and node and flask before starting out.
-4) in your terminal typeout: "node index.js"    //make sure your cwd is set to the folder dir.
-5) run app.py.
-6) open "localhost:3000" in your browser.
+# 🌿 AI-Powered Plant Disease Detection Web App
 
+## 🚀 Getting Started Guide
 
-USAGE:
-********
-you can load an AI model (in mycase a plant disease detection AI) and upload a picture to the application the trained ml model (.h5 file) will predict the disease and sent the pridiction to gemini ai to generate content abour it.
+1. In `app.py`, load your trained machine learning model (e.g., a `.h5` file).
+2. In `index.js`, add your Gemini AI API key (generate one from the Gemini platform).
+3. Make sure you have **Node.js**, **npm**, and **Flask** installed on your system.
+4. Start the Node server:
+   ```bash
+   node index.js
+   ```
+   > 🔹 Ensure your terminal's current working directory is the project folder.
+5. Run the Flask app:
+   ```bash
+   python app.py
+   ```
+6. Open your browser and go to: [http://localhost:3000](http://localhost:3000)
 
-LANGUAGE:
-*********
-html (EJS), 
-css (Bootstrap)
-NODE js (express and fewe other dependencies)
-FLASK  (with few other dependencies)
-Machine Learning: Python (with TensorFlow)
+---
 
-CREDITS:
-********
-Me and my team built this applicaion for Smart India Hackathon.
-Team Members:
-Gokul Ram K
-Varun Krishnan
-Yadeesh T
-Aarthi G
-Sreesh Jambulingam
-Pranesh Shivanchalam
+## 🧠 App Usage
 
+- Upload a plant image to the app.
+- The trained AI model (built with TensorFlow) will predict the disease.
+- The prediction is then sent to **Gemini AI** to generate informative content about the detected disease.
+
+---
+
+## 🛠️ Technologies Used
+
+- **Frontend**: HTML (EJS), CSS (Bootstrap)
+- **Backend**: 
+  - Node.js (Express, and other dependencies)
+  - Flask (Python, with supporting libraries)
+- **Machine Learning**: Python (TensorFlow)
+
+---
+
+## 👥 Credits
+
+This application was developed as part of the **Smart India Hackathon**.
+
+**Team Members**:
+- Gokul Ram K
+- Varun Krishnan
+- Yadeesh T
+- Aarthi G
+- Sreesh Jambulingam
+- Pranesh Shivaachalam
+
+---
+
+Feel free to ⭐ this repo if you find it helpful or want to support the project!
