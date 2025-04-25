@@ -1,1 +1,1 @@
-# 🌿 AI-Powered Plant Disease Detection Web App
+##AI-Powered Plant Disease Detection Web App
